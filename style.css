@@ -59,7 +59,7 @@ span {
 }
 
 :root {
-  --primary: red;
+  --primary: blue;
   --dk-grey: #333;
   --max-width: 960px;
   --spacing: 4rem;
